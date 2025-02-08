@@ -1,4 +1,5 @@
 🏏 IPL Data Analysis (2008-2020) – Tableau Dashboard 📊
+
 🚀 Project Overview
 This Tableau-powered project analyzes Indian Premier League (IPL) data from 2008 to 2020, sourced from Kaggle. The analysis provides a comprehensive performance review of teams, players, and match outcomes. The dashboard visually represents key statistics, trends, and winning patterns, helping in strategic decision-making and deeper cricket insights.
 
