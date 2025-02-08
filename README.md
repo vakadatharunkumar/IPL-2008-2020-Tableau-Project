@@ -7,11 +7,17 @@ This Tableau-powered project analyzes Indian Premier League (IPL) data from 2008
 📌 Key Insights & Metrics
 
 ✅ 🏆 Title Winners – Season-wise IPL champions from 2008 to 2020.
+
 ✅ 🟠 Orange Cap Winners – Players with the highest runs per season.
+
 ✅ 🟣 Purple Cap Winners – Players with the most wickets in a season.
+
 ✅ 💥 Tournament Sixes – Total sixes hit in each season.
+
 ✅ 🎯 Tournament Fours – Total fours scored across all matches.
+
 ✅ 📊 Match Winner Based on Toss Decision – Impact of toss decision (batting/fielding) on match results.
+
 ✅ ⚖️ Toss Decision Based on Winning % – Analysis of teams’ toss strategies and their correlation with victories.
 
 🛠 Tools & Techniques Used
