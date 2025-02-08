@@ -17,13 +17,21 @@ This Tableau-powered project analyzes Indian Premier League (IPL) data from 2008
 🛠 Tools & Techniques Used
 
 🔹 Tableau – Interactive data visualization & dashboard creation.
+
 🔹 Data Cleaning & Preprocessing – Ensuring accuracy and consistency before visualization.
+
 🔹 Calculated Fields – Derived key metrics such as win percentages and total aggregates.
+
 🔹 Filters & Parameters – Dynamic selection for season-wise analysis.
+
 🔹 Bar Charts, Pie Charts & KPIs – Used for clear, actionable insights.
 
 🔍 Business & Cricketing Insights
+
 📈 Winning Trends – Certain teams have dominated IPL titles, indicating strong performance strategies.
+
 🏅 Impact Players – Orange & Purple Cap winners highlight key performers for each season.
+
 ⚡ Power Hitting Evolution – Sixes and fours trends show how batting aggression has changed over the years.
+
 📊 Toss Influence – Winning the toss does not always guarantee match success, but trends help in decision-making.
